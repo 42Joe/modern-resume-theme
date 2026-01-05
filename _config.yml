@@ -39,7 +39,7 @@ additional_links:
   icon: fab fa-mastodon
   url: https://graz.social/@joe42
 - title: Bluesky
-  icon: fab fa-bluesky
+  icon: fab fa-square-bluesky
   url: https://bsky.app/profile/joeschneider42.bsky.social
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
