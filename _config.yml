@@ -38,9 +38,9 @@ additional_links:
 - title: Mastodon
   icon: fab fa-mastodon
   url: https://graz.social/@joe42
-- title: Bluesky
-  icon: fab fa-square-bluesky
-  url: https://bsky.app/profile/joeschneider42.bsky.social
+# - title: Bluesky
+#  icon: fab fa-square-bluesky
+#  url: https://bsky.app/profile/joeschneider42.bsky.social
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
