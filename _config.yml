@@ -38,10 +38,9 @@ additional_links:
 - title: Mastodon
   icon: images/mastodon-icon.png
   url: https://graz.social/@joe42
- # - title: another link
- #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  # url: Link url (eg. https://google.com)
-
+  - title: Bluesky
+    icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+   url: https://bsky.app/profile/joeschneider42.bsky.social
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
