@@ -51,7 +51,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/joe
 about_content: | # this will include new lines to allow paragraphs
-  Well, I am an hydraulic engineer working at Graz University of Technology. Besides my job 
+  Well, I am an hydraulic engineer working at Graz University of Technology.
+
+**Page under construction. Content will follow soon!**
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
