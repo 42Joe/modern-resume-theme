@@ -49,7 +49,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: joe
+about_profile_image: images/joe
 about_content: | # this will include new lines to allow paragraphs
   Well, I am an hydraulic engineer working at Graz University of Technology. Besides my job 
 content:
