@@ -36,10 +36,10 @@ orcid_username: 0000-0002-8550-2952
 # Additional icon links
 additional_links:
 - title: Mastodon
-  icon: images/mastodon-icon
+  icon: fab fa-mastodon
   url: https://graz.social/@joe42
 - title: Bluesky
-  icon: fab fa-twitter
+  icon: fab fa-bluesky
   url: https://bsky.app/profile/joeschneider42.bsky.social
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
