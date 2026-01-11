@@ -50,15 +50,18 @@ content:
         sub_title: Research Assistant
         caption: 1998 - 2002
         description: |
-          Research focus on sediment transport and hydraulic modeling.
+          Research focus on sediment transport and reservoir sedimentation. Meteorological and hydrological field measurements.
       - layout: right
         title: Graz University of Technology
         sub_title: Lab Manager & Deputy Head of Institute
         caption: 2003 - present
         link: https://hydro.tugraz.at
         description: |
-          Deputy head of institute, head of hydraulic laboratory, project manager, university lecturer, supervisor of bachelor, master and PhD students.
-
+          * Conducting hydraulic scale model tests.
+          * Managing national and international research projects.
+          * University lecturing and supervision of Bachelor, Master, and PhD students.
+          + Deputy Head of Institute (since 2020) and Head of Laboratory (since 2009). 
+          
   - title: Education
     layout: list
     content:
