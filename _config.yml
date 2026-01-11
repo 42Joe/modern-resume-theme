@@ -1,159 +1,86 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
-
-# Content configuration version
+repository: 42Joe/modern-resume-theme # Beispielhaft angepasst auf deinen GitHub-User
 version: 2
 
 # Personal info
 name: Joe Schneider
 title: Personal website
 email: email@josef-schneider.org
-# email_title: Email (Email title override)
-phone: +43 699 194 22 014
-# phone_title: Phone (Phone title override)
+phone: "+43 699 194 22 014"
 website: josef-schneider.org
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-# twitter_username: jekyllrb
-github_username:  42Joe
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
+github_username: 42Joe
 linkedin_username: josef-schneider-27435743
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
 orcid_username: 0000-0002-8550-2952
-# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
 - title: Mastodon
   icon: fab fa-mastodon
   url: https://graz.social/@joe42
-# - title: Bluesky
-#  icon: fab fa-square-bluesky
-#  url: https://bsky.app/profile/joeschneider42.bsky.social
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: images/joe
-about_content: | # this will include new lines to allow paragraphs
-  Well, I am an **hydraulic engineer** working at Graz University of Technology. In addition to my role as Deputy Head of the Institute, I 
-  also serve as the Head of Laboratory at the Institute of Hydraulic Engineering and Water Resources Management at TU Graz In my 
-  professional work, I focus on 
-  **fluvial morphology** and **hydropower development**. Previously, my work focused primarily on **sediment transport** and **reservoir 
-  sedimentation**. A key emphasis of my research was the assessment of sediment flushing and sluicing operations through dams and 
-  reservoirs to prevent sedimentation. Consequently, I am continuously involved in the development of new hydropower plants as well as the 
-  retrofitting of existing facilities. I oversee these projects as a **project manager**, primarily utilizing physical scale model 
-  tests at our institute. Recently, I have also been increasingly involved in **fish migration**, 
-  specifically studying movement in both upstream and downstream directions. A recently completed example is briefly presented below.
+about_profile_image: images/joe.jpg # Stelle sicher, dass die Dateiendung stimmt
+about_content: |
+  Well, I am **a hydraulic engineer** working at Graz University of Technology. In addition to my role as Deputy Head of the Institute, I also serve as the Head of Laboratory at the Institute of Hydraulic Engineering and Water Resources Management at TU Graz.
   
+  In my professional work, I focus on **fluvial morphology** and **hydropower development**. Previously, my work focused primarily on **sediment transport** and **reservoir sedimentation**. A key emphasis of my research was the assessment of sediment flushing and sluicing operations through dams and reservoirs to prevent sedimentation. 
+  
+  Consequently, I am continuously involved in the development of new hydropower plants as well as the retrofitting of existing facilities. I oversee these projects as a **project manager**, primarily utilizing physical scale model tests at our institute. Recently, I have also been increasingly involved in **fish migration**, specifically studying movement in both upstream and downstream directions. A recently completed example is briefly presented below.
+
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: right
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: Flussabwärts gerichtete Fischwanderung an mittelgroßen Fließgewässern in Österreich (*Downstream fish migration in medium-sized watercourses in Austria*)
-        link: 
-        link_text: 
-#        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
- #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-        Research on downstream fish migration at hydropower plants remains critical. This FFG Collective Research project used 
-        telemetry to track potadromous species in medium-sized rivers, finding that downstream movement occurs primarily via turbines 
-        and fish passes. Using Balloon Tags and Barotrauma Detection Systems (BDS), the study recorded physical stressors (pressure 
-        gradients, acceleration) and injury rates. These findings, combined with CFD and blade strike modeling as well as barochamber tests, provided the 
-        basis for age-class population modeling to assess the long-term impacts of hydropower passage.
+          FFG Collective Research project on fish movement and hydropower impacts.
+        description: |
+          Research on downstream fish migration at hydropower plants remains critical. This FFG Collective Research project used telemetry to track potadromous species in medium-sized rivers, finding that downstream movement occurs primarily via turbines and fish passes. Using Balloon Tags and Barotrauma Detection Systems (BDS), the study recorded physical stressors (pressure gradients, acceleration) and injury rates. These findings, combined with CFD and blade strike modeling as well as barochamber tests, provided the basis for age-class population modeling to assess the long-term impacts of hydropower passage.
+
   - title: Experience
     layout: list
     content:
       - layout: right
         title: Graz University of Technology
-        sub_title: Lab manager
-        caption: May 2003 - present)
-        link: hydro.tugraz.at
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Deputy head of institute, head of hydraulic laboratory, project manager, university lecturer, supervisor of bachelor, master and
-          PhD students
+        sub_title: Lab Manager & Deputy Head of Institute
+        caption: May 2003 - present
+        link: https://hydro.tugraz.at
+        description: |
+          Deputy head of institute, head of hydraulic laboratory, project manager, university lecturer, supervisor of bachelor, master and PhD students.
+
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title:  PhD at BUKU, Vienna
-        sub_title: 
-        caption:  1998 - 2002
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        title: PhD at BOKU, Vienna
+        caption: 1998 - 2002
+        description: Doctoral studies in the field of hydraulic engineering.
 
       - layout: top-right
         title: Habilitation at TU Graz
-        sub_title: 
         caption: 2016
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        description: Post-doctoral qualification (Venia Docendi).
+
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-     # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-     # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
-     In addition to my work, I stay active to keep fit, play the drums, and enjoy reading. I also have a personal interest in 
-     home automation and IT. For principled reasons, I avoid proprietary software and banished Microsoft products from my computer
-     s and other devices years ago. By the way, 2026 will certainly be the **year of the Linux desktop**.
+    content: |
+      In addition to my work, I stay active to keep fit, play the drums, and enjoy reading. I also have a personal interest in home automation and IT. For principled reasons, I avoid proprietary software and banished Microsoft products from my computers and other devices years ago. 
+      
+      By the way, 2026 will certainly be the **year of the Linux desktop**.
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+  - jekyll-seo-tag
