@@ -57,9 +57,9 @@ about_content: | # this will include new lines to allow paragraphs
   **fluvial morphology** and **hydropower development**. Previously, my work focused primarily on **sediment transport** and **reservoir 
   sedimentation**. A key emphasis of my research was the assessment of sediment flushing and sluicing operations through dams and 
   reservoirs to prevent sedimentation. Consequently, I am continuously involved in the development of new hydropower plants as well as the 
-  retrofitting of existing facilities. I oversee these projects as a project manager, primarily utilizing physical scale model 
-  tests at our instituteRecently, I have also been increasingly involved in **fish migration**, 
-  specifically studying movement in both upstream and downstream directions.  > Teststeresersfscxycyxcyxcxy
+  retrofitting of existing facilities. I oversee these projects as a **project manager**, primarily utilizing physical scale model 
+  tests at our institute. Recently, I have also been increasingly involved in **fish migration**, 
+  specifically studying movement in both upstream and downstream directions. A recently completed example is briefly presented below.
   
 content:
   - title: Projects # Title for the section
@@ -68,9 +68,13 @@ content:
       - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Flussabwärts gerichtete Fischwanderung an mittelgroßen Fließgewässern in Österreich (*Downstream fish migration in medium-sized watercourses in Austria*)
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: Research on downstream fish migration at hydropower plants remains critical. This FFG Collective Research project used 
+        telemetry to track potadromous species in medium-sized rivers, finding that downstream movement occurs primarily via turbines 
+        and fish passes. Using Balloon Tags and Barotrauma Detection Systems (BDS), the study recorded physical stressors (pressure 
+        gradients, acceleration) and injury rates. These findings, combined with CFD and blade strike modeling as well as barochamber tests, provided the 
+        basis for age-class population modeling to assess the long-term impacts of hydropower passage.
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
