@@ -38,11 +38,11 @@ content:
     content:
       - layout: right
         border: weak
-        title: Flussabwärts gerichtete Fischwanderung an mittelgroßen Fließgewässern in Österreich (*Downstream fish migration in medium-sized watercourses in Austria*)
+        title: Downstream fish migration
         quote: >
           FFG Collective Research project on fish movement and hydropower impacts.
         description: |
-          Research on downstream fish migration at hydropower plants remains critical. This FFG Collective Research project used telemetry to track potadromous species in medium-sized rivers, finding that downstream movement occurs primarily via turbines and fish passes. Using Balloon Tags and Barotrauma Detection Systems (BDS), the study recorded physical stressors (pressure gradients, acceleration) and injury rates. These findings, combined with CFD and blade strike modeling as well as barochamber tests, provided the basis for age-class population modeling to assess the long-term impacts of hydropower passage.
+          Research on downstream fish migration at hydropower plants remains critical. This FFG Collective Research project (**Flussabwärts gerichtete Fischwanderung an mittelgroßen Fließgewässern in Österreich** (*Downstream fish migration in medium-sized watercourses in Austria*)) used telemetry to track potadromous species in medium-sized rivers, finding that downstream movement occurs primarily via turbines and fish passes. Using Balloon Tags and Barotrauma Detection Systems (BDS), the study recorded physical stressors (pressure gradients, acceleration) and injury rates. These findings, combined with CFD and blade strike modeling as well as barochamber tests, provided the basis for age-class population modeling to assess the long-term impacts of hydropower passage.
 
   - title: Experience
     layout: list
