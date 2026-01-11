@@ -24,7 +24,7 @@ additional_links:
   url: https://graz.social/@joe42
 
 # About Section
-about_profile_image: images/joe.jpg # Stelle sicher, dass die Dateiendung stimmt
+about_profile_image: images/joe # Stelle sicher, dass die Dateiendung stimmt
 about_content: |
   Well, I am **a hydraulic engineer** working at Graz University of Technology. In addition to my role as Deputy Head of the Institute, I also serve as the Head of Laboratory at the Institute of Hydraulic Engineering and Water Resources Management at TU Graz.
   
