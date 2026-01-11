@@ -90,21 +90,22 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Graz University of Technology
+        sub_title: Lab manager
+        caption: May 2003 - present)
+        link: url: hydro.tugraz.at
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Deputy head of institute, head of hydraulic laboratory, project manager, university lecturer, supervisor of bachelor, master and
+          PhD students
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Master and PhD at BUKU, Vienna, habilitationat TU Graz
+        sub_title: Assoc. Prof. DI Dr. 
+        caption: #Date Range (eg. 2016 - 2019)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
