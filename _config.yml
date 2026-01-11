@@ -69,7 +69,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Flussabwärts gerichtete Fischwanderung an mittelgroßen Fließgewässern in Österreich (*Downstream fish migration in medium-sized watercourses in Austria*)
-        link: Link to project (https://link.springer.com/article/10.1007/s00506-025-01154-8)(optional)
+        link: [Summary article](https://link.springer.com/article/10.1007/s00506-025-01154-8)
         link_text: Research on downstream fish migration at hydropower plants remains critical. This FFG Collective Research project used 
         telemetry to track potadromous species in medium-sized rivers, finding that downstream movement occurs primarily via turbines 
         and fish passes. Using Balloon Tags and Barotrauma Detection Systems (BDS), the study recorded physical stressors (pressure 
