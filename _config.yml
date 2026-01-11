@@ -71,13 +71,13 @@ content:
         title: Flussabwärts gerichtete Fischwanderung an mittelgroßen Fließgewässern in Österreich (*Downstream fish migration in medium-sized watercourses in Austria*)
         link: 
         link_text: 
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+ #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -93,7 +93,7 @@ content:
         title: Graz University of Technology
         sub_title: Lab manager
         caption: May 2003 - present)
-        link: url: hydro.tugraz.at
+        link: hydro.tugraz.at
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
