@@ -1,5 +1,5 @@
 # Site
-repository: 42Joe/modern-resume-theme # Beispielhaft angepasst auf deinen GitHub-User
+repository: 42Joe/modern-resume-theme
 version: 2
 
 # Personal info
@@ -9,9 +9,6 @@ email: email@josef-schneider.org
 phone: "+43 699 194 22 014"
 website: josef-schneider.org
 
-# Dark Mode (true/false/never)
-darkmode: false
-
 # Social links
 github_username: 42Joe
 linkedin_username: josef-schneider-27435743
@@ -19,12 +16,12 @@ orcid_username: 0000-0002-8550-2952
 
 # Additional icon links
 additional_links:
-- title: Mastodon
-  icon: fab fa-mastodon
-  url: https://graz.social/@joe42
+  - title: Mastodon
+    icon: fab fa-mastodon
+    url: https://graz.social/@joe42
 
 # About Section
-about_profile_image: images/joe # Stelle sicher, dass die Dateiendung stimmt
+about_profile_image: images/joe # PRÜFEN: Endung .jpg oder .png ergänzen
 about_content: |
   Well, I am a **hydraulic engineer** working at Graz University of Technology. In addition to my role as Deputy Head of the Institute, I also serve as the Head of Laboratory at the Institute of Hydraulic Engineering and Water Resources Management at TU Graz.
   
@@ -49,12 +46,11 @@ content:
     layout: list
     content:
       - layout: right
-        title: University of Natural Resources and Life Sciences, Vienna
-        sub_title: Research assistant
+        title: University of Natural Resources and Life Sciences (BOKU), Vienna
+        sub_title: Research Assistant
         caption: 1998 - 2002
-        link: 
         description: |
-          Deputy head of institute, head of hydraulic laboratory, project manager, university lecturer, supervisor of bachelor, master and PhD students.
+          Research focus on sediment transport and hydraulic modeling.
       - layout: right
         title: Graz University of Technology
         sub_title: Lab Manager & Deputy Head of Institute
@@ -74,8 +70,7 @@ content:
       - layout: top-right
         title: Habilitation at TU Graz
         caption: 2018
-        description: Post doctoral lecture qualification for the scientific field "hydraulic
-engineering" (venia docendi)
+        description: Post-doctoral lecture qualification (Venia Docendi) for "Hydraulic Engineering".
 
   - title: A Little More About Me
     layout: text
