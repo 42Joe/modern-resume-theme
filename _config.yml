@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   Well, I am an hydraulic engineer working at Graz University of Technology. In my professional work, I focus on 
   **fluvial morphology** and **hydropower development**. I am the Head of Laboratory at the Institute of Hydraulic 
   Engineering and Water Resources Management at TU Graz. Recently, I have also been increasingly involved in **fish migration**, 
-  specifically studying movement in both upstream and downstream directions.| Teststeresersfscxycyxcyxcxy
+  specifically studying movement in both upstream and downstream directions. > Teststeresersfscxycyxcyxcxy
   
 content:
   - title: Projects # Title for the section
