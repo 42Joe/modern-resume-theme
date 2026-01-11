@@ -81,7 +81,7 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-         Research on downstream fish migration at hydropower plants remains critical. This FFG Collective Research project used 
+        Research on downstream fish migration at hydropower plants remains critical. This FFG Collective Research project used 
         telemetry to track potadromous species in medium-sized rivers, finding that downstream movement occurs primarily via turbines 
         and fish passes. Using Balloon Tags and Barotrauma Detection Systems (BDS), the study recorded physical stressors (pressure 
         gradients, acceleration) and injury rates. These findings, combined with CFD and blade strike modeling as well as barochamber tests, provided the 
