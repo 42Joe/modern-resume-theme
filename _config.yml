@@ -39,6 +39,7 @@ content:
       - layout: right
         border: weak
         title: Downstream fish migration
+        link: https://link.springer.com/article/10.1007/s00506-025-01154-8
         quote: >
           FFG Collective Research project on fish movement and hydropower impacts.
         description: |
@@ -48,9 +49,16 @@ content:
     layout: list
     content:
       - layout: right
+        title: University of Natural Resources and Life Sciences, Vienna
+        sub_title: Research assistant
+        caption: 1998 - 2002
+        link: 
+        description: |
+          Deputy head of institute, head of hydraulic laboratory, project manager, university lecturer, supervisor of bachelor, master and PhD students.
+      - layout: right
         title: Graz University of Technology
         sub_title: Lab Manager & Deputy Head of Institute
-        caption: May 2003 - present
+        caption: 2003 - present
         link: https://hydro.tugraz.at
         description: |
           Deputy head of institute, head of hydraulic laboratory, project manager, university lecturer, supervisor of bachelor, master and PhD students.
@@ -60,13 +68,14 @@ content:
     content:
       - layout: top-right
         title: PhD at BOKU, Vienna
-        caption: 1998 - 2002
+        caption: 2002
         description: Doctoral studies in the field of hydraulic engineering.
 
       - layout: top-right
         title: Habilitation at TU Graz
-        caption: 2016
-        description: Post-doctoral qualification (Venia Docendi).
+        caption: 2018
+        description: Post doctoral lecture qualification for the scientific field "hydraulic
+engineering" (venia docendi)
 
   - title: A Little More About Me
     layout: text
