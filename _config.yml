@@ -8,6 +8,8 @@ title: Personal website
 email: email@josef-schneider.org
 phone: "+43 699 194 22 014"
 website: josef-schneider.org
+link: /assets/pdfs/2025_ModernCV_Joe_5.pdf
+        link_text: "Download PDF (CV)"
 
 # Social links
 github_username: 42Joe
@@ -28,8 +30,7 @@ about_content: |
   In my professional work, I focus on **fluvial morphology** and **hydropower development**. Previously, my work focused primarily on **sediment transport** and **reservoir sedimentation**. A key emphasis of my research was the assessment of sediment flushing and sluicing operations through dams and reservoirs to prevent sedimentation. 
   
   Consequently, I am continuously involved in the development of new hydropower plants as well as the retrofitting of existing facilities. I oversee these projects as a **project manager**, primarily utilizing physical scale model tests at our institute. Recently, I have also been increasingly involved in **fish migration**, specifically studying movement in both upstream and downstream directions. A recently completed example is briefly presented below.
-link: /assets/pdfs/2025_ModernCV_Joe_5.pdf
-        link_text: "Download PDF (CV)"
+
 content:
   - title: Projects
     layout: list
