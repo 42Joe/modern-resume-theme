@@ -51,10 +51,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/joe
 about_content: | # this will include new lines to allow paragraphs
-  Well, I am an hydraulic engineer working at Graz University of Technology. In my professional work, I focus on 
-  **fluvial morphology** and **hydropower development**. I am the Head of Laboratory at the Institute of Hydraulic 
-  Engineering and Water Resources Management at TU Graz. Recently, I have also been increasingly involved in **fish migration**, 
-  specifically studying movement in both upstream and downstream directions. > Teststeresersfscxycyxcyxcxy
+  Well, I am an **hydraulic engineer** working at Graz University of Technology. In addition to my role as Deputy Head of the Institute, I 
+  also serve as the Head of Laboratory at the Institute of Hydraulic Engineering and Water Resources Management at TU Graz In my 
+  professional work, I focus on 
+  **fluvial morphology** and **hydropower development**. Previously, my work focused primarily on **sediment transport** and **reservoir 
+  sedimentation**. A key emphasis of my research was the assessment of sediment flushing and sluicing operations through dams and 
+  reservoirs to prevent sedimentation. Consequently, I am continuously involved in the development of new hydropower plants as well as the 
+  retrofitting of existing facilities. I oversee these projects as a project manager, primarily utilizing physical scale model 
+  tests at our instituteRecently, I have also been increasingly involved in **fish migration**, 
+  specifically studying movement in both upstream and downstream directions.  > Teststeresersfscxycyxcyxcxy
   
 content:
   - title: Projects # Title for the section
